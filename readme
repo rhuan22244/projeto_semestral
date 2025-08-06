@@ -1,0 +1,7 @@
+Será desenvolvido um projeto de clínica veterinária para auxiliar nas criações e buscar de consultas, vinculando um animal, cliente e veterinário em uma classe chamada consulta onde será possível ver horário e data da consulta.
+
+O objeto Animal é composto por nome do animal, espécie e o nome do dono vinculado a classe cliente.
+O objeto Cliente é composto por nome, cpf e telefone.
+O objeto Veterinário é composto por nome, id e especialidade.
+O objeto Consulta é composto pelas informações de nome do animal vinculado a classe animal, nome do cliente vinculado a classe cliente, nome do veterinário vinculado a classe veterinario, data e valor da consulta.
+
