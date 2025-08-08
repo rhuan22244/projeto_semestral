@@ -8,5 +8,4 @@ class Cliente {
 }
 
 const cliente1 = new Cliente ("Rhuan Silva","6545687858",993712266);
-
 console.log(cliente1);
